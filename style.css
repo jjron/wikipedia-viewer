@@ -1,0 +1,50 @@
+body {
+  background-color: #29a329;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-family: 'Raleway', serif;
+}
+
+#topic {
+  padding-left: 30px;
+}
+
+.glyphicon {
+  position: absolute;
+  left: 15px;
+  padding: 10px;
+  pointer-events: none;
+}
+
+.buttons {
+  display: table;
+  margin: 0 auto;
+}
+
+#numResults p {
+  color: white;
+}
+
+#title {
+  font-size: 24px;
+  font-family: 'Droid Serif', serif;
+  color: black;
+}
+
+#results a {
+  text-decoration: none;
+}
+
+#results div {
+  background-color: white;
+  border-radius: 40px;
+  padding: 10px 10px 5px 20px;
+  margin-bottom: 10px;
+}
+
+#results p {
+  color: black;
+}
